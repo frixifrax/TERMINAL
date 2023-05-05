@@ -5,7 +5,7 @@
 ### 1) Посмотреть где я
 `pwd`
 
-Для того, чтобы узнать где мы находимся, воспользуемся командой **pwd** сокращение от *print working directory*
+Для того, чтобы узнать где мы находимся, воспользуемся командой `pwd` сокращение от *print working directory*
 
 
 >Результатом будет отображение пути `/c/Users/0x`
@@ -15,7 +15,7 @@
 ### 2) Создать папку
 `mkdir -v folder_3`
 
-За создание папки отвечает команда **mkdir** от *make directory*
+За создание папки отвечает команда `mkdir` от *make directory*
 Для более наглядного отображения воспользуемся ключем -v, --verbose, который отображает сообщение о создании для каждой созданной папки
 
 >Результатом будет создание папки folder_3, а также отображение подтверждающего сообщения, о её создании
@@ -26,9 +26,9 @@
 ### 3) Зайти в папку
 `cd folder_3`
 
-Используем команду **cd** от *change directory*
+Используем команду `cd` от *change directory*
 
->В окне терминала сменилась рабочая папка и теперь отображается как ~/folder_3
+>В окне терминала сменилась рабочая папка и теперь отображается как **~/folder_3**
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qU-PRAJPDeOcb34Vxy5PZrivpxARCka9l8Rw874ZC95rNN48f3uBdW6q1nAAJbNHsObCBKySykDlb5yNeJEPFEMjOK=s1600)
 ---
@@ -37,7 +37,7 @@
 
 `mkdir -v dir_1 dir_2 dir_3` 
 
->Создали три папки внутри folder_3 и результат отобразился в окне терминала
+>Создали три папки внутри **folder_3** и результат отобразился в окне терминала
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qX4qxVtLgIp405Ev_dEd6ccVQ3-zyDIQzTtY-8ZOYiAos4JXX6dLV-nb80BsVXIyDVlNSfJp2jCyj4n5yVj5zLy6XGzw=s1600)
 ---
@@ -46,7 +46,7 @@
 
 `cd dir_1`
 
->Зашли в папку dir_1
+>Зашли в папку **dir_1**
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81otl9nbLgMka9LqwIrYDirI99Luab-opQ01C-h1sQAy79pzIMzmjQ7NtJUMXREyuIIcXeYnZ-QZUJyEuoN5bV48YMwKjQ=s1600)
 ---
@@ -70,6 +70,15 @@
 ---
 
 ### 8. Вывести список содержимого папки
+
+`ls -la`
+
+Для вывода списка файлов и папок используем команду `ls`, при этом используем ключи `-a` для отображения всех файлов и папок в том числе скрытых, а также параметр `-l` для вывода данных в формате длинного списка
+
+> Система отображает содержимое папки **dir1** в том числе скрытые файлы и папки в формате длинного списка
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81ridiyreFidp_W7k7vs6v5YDe4D076dIeirF5nFKzjxXRb4jVUNV2Bzmw_VSq4H2LyxMLLNBsWHRa0_YTXvfVK7AUph=s1600)
+---
 
 ### 9) + Открыть любой txt файл
 
