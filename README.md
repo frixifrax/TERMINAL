@@ -118,7 +118,21 @@
 
 ### 13) переместить любые 2 файла, которые вы создали, в любую другую папку.
 
+Перейдём в папку `dir_1`, где находятся созданные файлы. `cd dir_1`. Для перемещения файлов воспользуемся командой `mv` от анг **move** и переместим file2.txt и file3.txt в папку fld1
+`mv -v file2.txt file3.txt fld1`
+
+>Благодаря ключу -v --verbose можно видеть подтверждение перемещения файлов
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pJqKTdgeMjB6pKQs3rSUmJt9CH0RDwjmbo8gKys5zQTG4nLXwFV8Dp2jEZKA-CFtXS03voCHTkC2zSoFPJAJEsIqvF7Q=s1600)
+
 ### 14) скопировать любые 2 файла, которые вы создали, в любую другую папку.
+
+Для копирования используем команду `cp` от **copy**
+`cp -v file4.json file5.json fld2`
+
+> Файлы скопированы с подтверждением
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qVkUbqrtzdo0zXOmppoB7tZelNmOD1yVmqKjQBT4XJ9v-HCoVacDKTphwJc82_VGfAerJpG9Nis603xEp1QvPvl7Hetw=s1600)
 
 ### 15) Найти файл по имени
 
