@@ -111,7 +111,7 @@
 
 Для того, чтобы подняться на уровень выше используем команду `cd ..`
 
->Таким образом мы переместились на уровень выше из папки ~/folder_3/dir_1 в папку ~/folder_3
+>Таким образом мы переместились на уровень выше из папки `~/folder_3/dir_1` в папку `~/folder_3`
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81r6ivKvyi8Ait16ThoFu2eX7NE53056oGmvORK95IJZjoEz6_xttwP7bKJgN8sLsw-cVKxn2WGKX_ViPlL5GyRDK49bQg=s1600)
 ---
