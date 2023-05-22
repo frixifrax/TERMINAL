@@ -91,29 +91,27 @@
 ---
 
 ### 10) + написать туда что-нибудь, любой текст.
-123
+Наберем в редакторе какой-нибудь текст
 
->123
+>Hello world!
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qpwEl5d5W6rjxhykXRIrD_y56ist8PphixHcP7n1nbzhub0RfB7ZE-lhRbHuWMUoNPbQr4fGLW3rV18XLPIB_cg2Favw=s1600)
 ---
 
 ### 11) + сохранить и выйти.
 
-`Esc` + `:` + `w` + `q` + `Enter`
+Для сохранения файла с изменениями воспользуемся `Esc` + `:` + `w` + `q` + `Enter`
 
-123
-
->123
+>Файл сохранён
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81p4rhLd4RDP_rKzCuWp1eQHIENtRCGrEz7DKquhISoaCsg22qw5uPUP4uG8gSkeph5F-hGfpsyirpDkx3tZN7MyYaC59A=s1600)
 ---
 
 ### 12) Выйти из папки на уровень выше
 
-123
+Для того, чтобы подняться на уровень выше используем команду `cd ..`
 
->123
+>Таким образом мы переместились на уровень выше из папки ~/folder_3/dir_1 в папку ~/folder_3
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81r6ivKvyi8Ait16ThoFu2eX7NE53056oGmvORK95IJZjoEz6_xttwP7bKJgN8sLsw-cVKxn2WGKX_ViPlL5GyRDK49bQg=s1600)
 ---
