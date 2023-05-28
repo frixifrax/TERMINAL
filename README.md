@@ -154,7 +154,11 @@
 
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81rVRIevWY2mwX4bLiZtSnRQbsQd4chaEfHQ20Sp2CT2TUii4nDKF4ebwbsk2IlGwv97L7Aa2YVqH7RaCCrF19iKy9wy=s1600)
 
-> Для выхода из `tail -f` воспользуемся `Ctrl+c`
+> Для выхода из `tail -f` воспользуемся `Ctrl+c`. 
+> Стоит заметить что команда grep используется для поиска текста внутри файлов. При этом используется синтаксис `grep *что_ищем* *имя_файла_где_ищем*`
+> Например найдем world13 в файле file1.txt. Для этого воспользуемся командой `grep world13 file1.txt`
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKm4USyumhIqQbrQPYQ8pGTgI8DY7ndscm-B_DN9mTowVZkyvyNLFS9iyx9SZ3Y_c3Ofqqf_-U6PeuI-ifDdz0ZJKqDA=s1600)
 
 ### 17) вывести несколько первых строк из текстового файла
 ![]()
