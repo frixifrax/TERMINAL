@@ -161,7 +161,11 @@
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKm4USyumhIqQbrQPYQ8pGTgI8DY7ndscm-B_DN9mTowVZkyvyNLFS9iyx9SZ3Y_c3Ofqqf_-U6PeuI-ifDdz0ZJKqDA=s1600)
 
 ### 17) вывести несколько первых строк из текстового файла
-![]()
+
+Для вывода первых строк текстового файла воспользуемся командой head -n X (где X количество строк для вывода). Выведем первые 7 строк, используя команду `head -n 7 file1.txt`
+
+![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qzAkdNXi8_Tnv-TAVl-RhA3yLDprL3EreEcegn1H5l6OglrRowR04O0QkbZ60EgL2SYOwUq0wFMquQDzcBTm-g1inm=s1600)
+
 ### 18) вывести несколько последних строк из текстового файла
 ![]()
 ### 19) просмотреть содержимое длинного файла (команда less) изучите как она работает.
