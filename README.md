@@ -167,6 +167,18 @@
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qzAkdNXi8_Tnv-TAVl-RhA3yLDprL3EreEcegn1H5l6OglrRowR04O0QkbZ60EgL2SYOwUq0wFMquQDzcBTm-g1inm=s1600)
 
 ### 18) вывести несколько последних строк из текстового файла
+
+Чтобы вывести несколько последних строк текстового файла воспользуемся командой tail -n X (где X количество строк для вывода). Выведем последние 6 строк, используя команду `tail -n 6 file1.txt`
+
+>0x@HOME-PC MINGW64 ~/folder_3/dir_1
+>$ tail -n 6 file1.txt
+>Hello world10!
+>Hello world11!
+>Hello world12!
+>Hello world13!
+>Hello world14!
+>Hello world15!
+
 ![]()
 ### 19) просмотреть содержимое длинного файла (команда less) изучите как она работает.
 ![]()
